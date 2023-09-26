@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **patriciotrujilllo/patriciotrujilllo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hola , soy Patricio Trujillo
+# Hola , soy Patricio Trujillo 👋
 
 Soy un Ingeniero Civil Informático con un enfoque en desarrollo web. Mi objetivo es la creación de soluciones innovadoras y eficientes que hagan la vida más fácil.
 
@@ -38,3 +37,5 @@ Soy un Ingeniero Civil Informático con un enfoque en desarrollo web. Mi objetiv
 ### Machine Learning
 
 * Redes Neuronales Recurrentes: Tengo experiencia trabajando con Redes Neuronales Recurrentes (RNN) en el campo del Machine Learning, lo que me permite crear modelos predictivos para tareas como el análisis de series temporales o el procesamiento del lenguaje natural.
+
+* [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
