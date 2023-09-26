@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hola , soy Patricio Trujillo 👋
+# Hola , me llamo Patricio Trujillo 👋
 
 Soy un Ingeniero Civil Informático con un enfoque en desarrollo web. Mi objetivo es la creación de soluciones innovadoras y eficientes que hagan la vida más fácil.
 
