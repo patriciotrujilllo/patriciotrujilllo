@@ -38,4 +38,4 @@ Soy un Ingeniero Civil Informático con un enfoque en desarrollo web. Mi objetiv
 
 * Redes Neuronales Recurrentes: Tengo experiencia trabajando con Redes Neuronales Recurrentes (RNN) en el campo del Machine Learning, lo que me permite crear modelos predictivos para tareas como el análisis de series temporales o el procesamiento del lenguaje natural.
 
-* [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,express,mysql,postgres,git&theme=light)](https://skillicons.dev)
+* [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,react,nodejs,php,express,mysql,postgres,git&theme=light)](https://skillicons.dev)
